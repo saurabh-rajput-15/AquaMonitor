@@ -1,6 +1,6 @@
 # AquaMonitor
 
-AquaMonitor is a full‑stack water monitoring platform for tracking groundwater and surface‑water stations. It provides an operational dashboard, interactive map, analytics, alerts, and reporting across a network of monitoring stations backed by a MySQL database and a secure REST API.
+AquaMonitor is a full-stack water monitoring platform for tracking groundwater and surface-water stations. It provides an operational dashboard, interactive map, analytics, alerts, and reporting across a network of monitoring stations backed by a MySQL database and a secure REST API.
 
 ## ✨ Key Features
 
@@ -8,7 +8,7 @@ AquaMonitor is a full‑stack water monitoring platform for tracking groundwater
 - **Interactive map (Leaflet + OpenStreetMap)** with station markers, status colors, and popups.
 - **Water level analytics** with trends, seasonal comparisons, and recharge estimation.
 - **Alerts management** with acknowledgements and severity levels.
-- **Role‑based access** (admin/operator/viewer) using JWT authentication.
+- **Role-based access** (admin/operator/viewer) using JWT authentication.
 - **Report generation** for data summaries and export workflows.
 
 ## 🧱 Tech Stack
@@ -17,7 +17,7 @@ AquaMonitor is a full‑stack water monitoring platform for tracking groundwater
 - React 18 + TypeScript + Vite
 - Tailwind CSS for UI
 - Recharts for charts
-- Leaflet / React‑Leaflet for maps
+- Leaflet / React-Leaflet for maps
 - Axios for API calls
 
 **Backend**
@@ -184,4 +184,4 @@ The backend uses a MySQL schema with core tables for **users**, **stations**, **
 
 ---
 
-AquaMonitor helps teams track critical water resources with data‑driven insights and geospatial visibility.
+AquaMonitor helps teams track critical water resources with data-driven insights and geospatial visibility.
